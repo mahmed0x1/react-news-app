@@ -1,0 +1,2 @@
+export const headlinesURL = "http://newsapi.org/v2/top-headlines?country=country&apiKey=535374f0b2a040749c0ce7a6f5366d34&pageSize=35"
+export const everythingURL = "http://newsapi.org/v2/everything?q=query&apiKey=535374f0b2a040749c0ce7a6f5366d34&language=en"
